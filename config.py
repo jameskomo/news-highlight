@@ -9,9 +9,3 @@ class Config:
     @staticmethod
     def init_app(app):
         pass
-
-
-class ProdConfig(Config):
-    pass
-
-

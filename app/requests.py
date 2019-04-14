@@ -67,7 +67,7 @@ def process_sources(sources_list):
 
 def get_articles(id):
     '''
-    Function that gets the articles and returns a list of articles objects
+    Function that processes the articles and returns a list of articles objects
     '''
     get_articles_url = articles_url.format(id, api_key)
 

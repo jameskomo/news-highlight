@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/komo/Documents/moringa-school-projects/MS-Python-Pre-work/news-highlight/virtual"
+VIRTUAL_ENV="/home/komo/Documents/moringa-school/Python-Flask/news-highlight/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
